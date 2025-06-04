@@ -124,3 +124,21 @@ footer {
     }
     
 }
+
+@media (max-width: 600px) {    
+        body {
+        max-width: 600px;
+    }
+
+    header {
+    display: flex;
+    flex-direction: column;
+}
+
+    .cart-holder {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+}
+
+}
