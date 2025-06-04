@@ -51,8 +51,6 @@ header {
     text-align: left;
 }
 
-/* ======= MIDDLE CONTAINER ======= */
-
 .middle-container {
     display: grid;
     grid-template-columns: 3fr 1fr;
