@@ -19,7 +19,6 @@ body {
 
 header {
     display: flex;
-    flex-wrap: wrap;
     background-color: #2c4059;
     padding: 1rem;
     gap: 1rem;
@@ -31,7 +30,6 @@ header {
     background-color: #ea5455;
     padding: 1rem;
     flex: 1;
-    min-width: 150px;
     text-align: center;
 }
 
